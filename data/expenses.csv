@@ -1,0 +1,3 @@
+ExpenseID,EventName,Category,Description,Amount,Status,Date,SpentBy
+1,Astrofest 2026,Publicity,Posters,250.0,Approved,2026-06-24,Parthvi
+2,AstroFest 2026,Fine Arts,"chart papers, markers, paint",1300.0,Approved,2026-06-24,Parthvi

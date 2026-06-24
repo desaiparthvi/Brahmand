@@ -1,0 +1,13 @@
+EventID,EventName,EventType,Budget,ActualExpense,Participants,Sponsorship,Feedback,TechnicalExpense,PublicityExpense,FineArtsExpense,LogisticsExpense,HospitalityExpense,IssuesFaced,Outcome,LessonsLearnt,BestPractice,RecommendationForFuture
+
+1,AstroZen,Workshop,20000,18500,250,5000,4.6,7000,3000,1000,4000,3500,Late registrations,Successful,"Early publicity increased turnout","Used volunteer coordinators effectively","Open registrations 2 weeks earlier"
+
+2,Tesseract,Hackathon,50000,47000,400,15000,4.3,20000,7000,2000,10000,8000,Sponsor delay,Successful,"Sponsorship dependency created stress","Strong technical planning","Secure sponsors at least 1 month before event"
+
+3,Lunar Canvas,AstroArt Competition,10000,9200,120,2000,4.7,1500,2500,2500,1200,1500,Limited publicity reach,Successful,"Creative events attract diverse participants","Social media promotion worked well","Collaborate with art clubs for wider reach"
+
+4,Stargazing Night,Observation Event,30000,28000,180,8000,4.8,12000,3000,1000,7000,5000,Cloudy weather uncertainty,Successful,"Backup planning reduced operational risks","Pre-event volunteer briefing helped","Maintain weather contingency plans"
+
+5,Cosmic Talks,Guest Lecture,15000,13500,90,4000,4.1,4000,2000,500,3000,4000,Lower than expected attendance,Moderately Successful,"Attendance depends heavily on publicity","Speaker engagement improved feedback","Increase marketing and student outreach"
+
+6,AstroFest 2026,Festival,85000,79000,600,30000,4.9,30000,12000,5000,18000,14000,High coordination workload,Highly Successful,"Early planning improved execution","Dedicated department leads improved coordination","Create standardized event management templates"
